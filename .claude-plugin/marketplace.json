@@ -1,0 +1,13 @@
+{
+  "name": "dauthau-competitor-analysis-skill",
+  "owner": { "name": "huydepzai121" },
+  "plugins": [
+    {
+      "name": "dauthau-competitor-analysis",
+      "description": "Phân tích đối thủ nền tảng đấu thầu Việt Nam (dauthau.asia)",
+      "source": "./",
+      "strict": false,
+      "skills": ["./skills/phan-tich-doi-thu-dau-thau"]
+    }
+  ]
+}
